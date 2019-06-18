@@ -1,2 +1,7 @@
 p {font-size: 20px }
 #texto1 {font-size: 50px }
+.titulo{font-size: 20px; font-family:"IM fell DW pica",serif;} 
+body {background-color: rosybrown;color:black; text-align: center; }
+#autor {font-style: italic; font-size: 30px; margin-bottom:30px; font-family: 'kotta one',serif; }
+.cancion {margin: auto; padding: 20px 0; text-align: left; width:400px;}
+#parrafo1:first-letter{float: left;font-size: 30px; line-height:1;margin:2px 5px 0 0; }

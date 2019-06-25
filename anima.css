@@ -28,10 +28,10 @@
     margin: 0 auto;
 }
 .rombo {
-    width: 100px; 
-    height: 100px; 
-    border: 3px solid #555; 
-    background: #428bca;
+    width:  100%;
+    height: 400px; 
+    border: 3px solid rgb(85, 85, 85); 
+    background: #42ca91;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
